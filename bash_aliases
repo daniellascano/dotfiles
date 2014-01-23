@@ -8,5 +8,5 @@ alias ftpoff='-s launchctl unload -w /System/Library/LaunchDaemons/ftp.plist'
 
 
 #general
-alias ls='ls -Fl@'
+alias ls='ls -Fl'
 alias sshpi="ssh pi@192.168.1.65"
