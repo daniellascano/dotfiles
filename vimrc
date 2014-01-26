@@ -1,4 +1,4 @@
-set number
 :echom "Line numbering ... ON"
-syntax enable
+set number
 :echom "Syntax highlighting ... ON"
+syntax enable
