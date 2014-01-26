@@ -12,7 +12,7 @@ PS1=" \u:->[\w] $ "
 #\H hostname
 #\h hostname upto first "."
 export CLICOLOR=1
-export LSCOLORS=exFxHxDxBxhghdabagacad
+export LSCOLORS=GxFxCxDxBxegedabagaced
 
 #adding the bash aliases
 if [ -f ~/.bash_aliases ]; then
